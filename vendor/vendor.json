@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "2rKtcKx9MsITP8RXgt+umObxByo=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "3f3e394da2b801fbe732a935ef40724762a67a07",
+			"revisionTime": "2017-02-18T16:27:10Z"
+		},
+		{
+			"checksumSHA1": "btuIVd4+XdXRmK3OiIdmKpzEl+s=",
+			"path": "github.com/pkg/errors",
+			"revision": "248dadf4e9068a0b3e79f02ed0a610d935de5302",
+			"revisionTime": "2016-10-29T09:36:37Z"
+		},
+		{
+			"checksumSHA1": "u5s2PZ7fzCOqQX7bVPf9IJ+qNLQ=",
+			"path": "github.com/rancher/go-rancher",
+			"revision": "2c43ff300f3eafcbd7d0b89b10427fc630efdc1e",
+			"revisionTime": "2016-12-20T06:33:30Z"
+		},
+		{
+			"checksumSHA1": "1fR2Rjb3WgPYi9GOB3HrMAFtCPs=",
+			"path": "github.com/rancher/go-rancher/client",
+			"revision": "2c43ff300f3eafcbd7d0b89b10427fc630efdc1e",
+			"revisionTime": "2016-12-20T06:33:30Z"
+		}
+	],
+	"rootPath": "github.com/aiwantaozi/rancher_service"
+}
