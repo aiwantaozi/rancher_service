@@ -1,12 +1,38 @@
 {
 	"comment": "",
-	"ignore": "",
+	"ignore": "test",
 	"package": [
+		{
+			"path": "github.com/dchest/uniuri",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "qnuH0JljtALFSijHYvbfBLzhzD4=",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "2268707a8f0843315e2004ee4f1d021dc08baedf",
+			"revisionTime": "2017-02-01T22:58:49Z"
+		},
+		{
+			"path": "github.com/dgrijalva/jwt-go/request",
+			"revision": "2268707a8f0843315e2004ee4f1d021dc08baedf"
+		},
+		{
+			"path": "github.com/dgrijalva/jwt-go/test",
+			"revision": "2268707a8f0843315e2004ee4f1d021dc08baedf"
+		},
+		{
+			"path": "github.com/gorilla/mux",
+			"revision": ""
+		},
 		{
 			"checksumSHA1": "2rKtcKx9MsITP8RXgt+umObxByo=",
 			"path": "github.com/gorilla/websocket",
 			"revision": "3f3e394da2b801fbe732a935ef40724762a67a07",
 			"revisionTime": "2017-02-18T16:27:10Z"
+		},
+		{
+			"path": "github.com/mitchellh/mapstructure",
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "btuIVd4+XdXRmK3OiIdmKpzEl+s=",
@@ -21,10 +47,52 @@
 			"revisionTime": "2016-12-20T06:33:30Z"
 		},
 		{
+			"path": "github.com/rancher/go-rancher/api",
+			"revision": "2c43ff300f3eafcbd7d0b89b10427fc630efdc1e"
+		},
+		{
 			"checksumSHA1": "1fR2Rjb3WgPYi9GOB3HrMAFtCPs=",
 			"path": "github.com/rancher/go-rancher/client",
 			"revision": "2c43ff300f3eafcbd7d0b89b10427fc630efdc1e",
 			"revisionTime": "2016-12-20T06:33:30Z"
+		},
+		{
+			"checksumSHA1": "avsmr0hFhxSGmIc3VFhm3uYSzeM=",
+			"path": "github.com/rancher/go-rancher/v2",
+			"revision": "2c43ff300f3eafcbd7d0b89b10427fc630efdc1e",
+			"revisionTime": "2016-12-20T06:33:30Z"
+		},
+		{
+			"path": "github.com/rancher/rancher-auth-service/util",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "29Muup9Nzbt/lsbLhjmGe7XixR4=",
+			"path": "github.com/rancher/webhook-service",
+			"revision": "01d2ace54ad316d5e7a80c78cacdd547ba85b898",
+			"revisionTime": "2017-02-22T04:32:25Z"
+		},
+		{
+			"checksumSHA1": "6G7pd4KUDJyoYdx/pHOcvs6ceO4=",
+			"path": "github.com/rancher/webhook-service/config",
+			"revision": "01d2ace54ad316d5e7a80c78cacdd547ba85b898",
+			"revisionTime": "2017-02-22T04:32:25Z"
+		},
+		{
+			"checksumSHA1": "Yds51n1l+/sFVguocb7Wl9E2jcc=",
+			"path": "github.com/rancher/webhook-service/drivers",
+			"revision": "01d2ace54ad316d5e7a80c78cacdd547ba85b898",
+			"revisionTime": "2017-02-22T04:32:25Z"
+		},
+		{
+			"path": "github.com/rancher/webhook-service/model",
+			"revision": "01d2ace54ad316d5e7a80c78cacdd547ba85b898"
+		},
+		{
+			"checksumSHA1": "gVR2xxm8nNfPXlG83oj+aP/Z3gE=",
+			"path": "github.com/rancher/webhook-service/service",
+			"revision": "01d2ace54ad316d5e7a80c78cacdd547ba85b898",
+			"revisionTime": "2017-02-22T04:32:25Z"
 		}
 	],
 	"rootPath": "github.com/aiwantaozi/rancher_service"
